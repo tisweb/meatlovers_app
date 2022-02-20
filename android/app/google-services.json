@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "46767747444",
+    "firebase_url": "https://meatlovers-5d6fe.firebaseio.com",
+    "project_id": "meatlovers-5d6fe",
+    "storage_bucket": "meatlovers-5d6fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46767747444:android:c4785d072441cbd39c3c21",
+        "android_client_info": {
+          "package_name": "com.meatloverserode.meatlovers_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46767747444-uocik315mlk5rpsh1qrc3hbu9ajlv9is.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meatloverserode.meatlovers_app",
+            "certificate_hash": "0f424c1dd47a385e09960fd891f1ae8fd1f7b31b"
+          }
+        },
+        {
+          "client_id": "46767747444-ng3u3smq4ngkumi4pmo1uppof2bua3hu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4wDv5qGI_8rM2k9Xea20ZVBLM_WJhcTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46767747444-ng3u3smq4ngkumi4pmo1uppof2bua3hu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
